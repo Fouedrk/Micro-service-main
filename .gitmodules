@@ -1,3 +1,6 @@
 [submodule "api-gateway"]
 	path = api-gateway
 	url = https://github.com/Fouedrk/api-gateway.git
+[submodule "inventory-service"]
+	path = inventory-service
+	url = https://github.com/Fouedrk/inventory-service.git
