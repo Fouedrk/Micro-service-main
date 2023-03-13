@@ -13,3 +13,6 @@
 [submodule "discovery-server"]
 	path = discovery-server
 	url = https://github.com/Fouedrk/discovery-server.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/Fouedrk/notification-service
